@@ -1,209 +1,193 @@
-# Hi, I'm Dawood Ahmad 👋
+<div align="center">
 
-### AI & ML Engineer | Generative AI | LLMs | RAG | Python
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Developer;LLM+%7C+RAG+%7C+AI+Agents;Python+%7C+LangChain+%7C+LangGraph;Building+Real-World+AI+Applications" />
+<br>
 
-I’m an **AI & Machine Learning Engineer** focused on building practical, intelligent applications using **Machine Learning, Generative AI, Large Language Models, and Retrieval-Augmented Generation (RAG)**.
+<img src="https://komarev.com/ghpvc/?username=Dawood-Ahmad-07&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS"/>
 
-I enjoy turning AI concepts into real-world products — from intelligent document assistants and RAG systems to AI-powered safety and weather applications.
-
-## 🧠 AI & Machine Learning
-
-### Artificial Intelligence
-
-* Generative AI
-* Large Language Models (LLMs)
-* AI Agents
-* Agentic AI
-* Prompt Engineering
-* Retrieval-Augmented Generation (RAG)
-* AI Application Development
-
-### Machine Learning
-
-* Supervised Learning
-* Unsupervised Learning
-* Feature Engineering
-* Model Evaluation
-* Classification
-* Regression
-* Data Preprocessing
-
-### Deep Learning
-
-* Neural Networks
-* Transformers
-* Attention Mechanisms
-* Embeddings
-* Representation Learning
+</div>
 
 ---
 
-## ⚙️ Tech Stack
+<div align="center">
 
-### Languages
+<!-- Animated AI / Coding GIF -->
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
-</p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5dHh3Y3NqN3Q2bWZ0NnN1bWZqN3J4d2R4cXQ3aGJ6eGJ4cG5mNCZlcD12MV9naWQiLCJjdD1n/L8K62iTDkzGX6/giphy.gif" width="500"/>
 
-### AI / ML
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
 
-* LangChain
-* LangGraph
-* Hugging Face
-* Google Gemini
-* OpenAI APIs
-* Scikit-learn
-* Transformers
 
-### Data & Vector Databases
+# 🧠 My AI World
 
-* ChromaDB
-* Vector Embeddings
-* Similarity Search
-* Pandas
-* NumPy
+<div align="center">
 
-### Development & Deployment
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=brainly&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Generative%20AI-581C87?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
-</p>
+<br><br>
 
-* Streamlit
-* REST APIs
-* Environment Variables
-* Git & GitHub
-* API Integration
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,vscode,docker&perline=7"/>
+
+</div>
 
 ---
 
-# 🔥 Featured Projects
+# ⚡ Tech Stack
 
-## 🌡️ FortyGuard — Heat Safety & Weather Intelligence
+### 🐍 Programming
 
-An AI-powered heat safety application designed to provide weather information and help users understand heat-related risk.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&perline=5"/>
+</p>
 
-**Key technologies:**
+### 🤖 AI / ML
 
-`Python` `Streamlit` `Weather APIs` `Folium` `REST APIs`
+<p align="center">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</p>
+
+### 🧠 Generative AI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌡️ FortyGuard
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z0M2Z3N2R3YjZ5M2J4Y3J2cHh5aXJqM2J5dG5nZ2F5bG9qYiZlcD12MV9naWQiLCJjdD1n/3oKIPtjElfqwMOTbH2/giphy.gif" width="420"/>
+
+</div>
+
+**Heat safety and weather intelligence application.**
 
 ### Features
 
-* 🌡️ Real-time temperature information
-* 💧 Humidity and apparent temperature
-* 🗺️ Interactive location/map interface
+* 🌡️ Real-time weather information
+* 💧 Humidity monitoring
 * ⚠️ Heat-risk assessment
+* 🗺️ Interactive maps
+* 📍 Location-based weather
 * 📧 Automated alerts
-* 🌦️ Weather API integration
+* 🔌 Weather API integration
+* 🎨 Interactive Streamlit UI
+
+**Stack:** `Python` `Streamlit` `Weather APIs` `Folium` `REST APIs`
 
 ---
 
-## 🤖 AI Document Assistant — Agentic RAG
+# 🤖 Agentic RAG
 
-An intelligent document-question-answering system using **Retrieval-Augmented Generation**.
+<div align="center">
 
-The system processes documents, creates embeddings, stores them in a vector database, retrieves relevant information, and uses an LLM to generate contextual answers.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3M3Q2aGJ4dG9tY2R0Y2R5YjR3d2N4Z3F4bW5tN2M2d3NqY3JpZCZlcD12MV9naWQiLCJjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="430"/>
 
-**Key technologies:**
+</div>
+
+An intelligent document assistant using **RAG + LLM + vector search + agentic workflows**.
+
+### Pipeline
+
+```text
+PDF / DOCUMENT
+      ↓
+TEXT EXTRACTION
+      ↓
+CHUNKING
+      ↓
+EMBEDDINGS
+      ↓
+VECTOR DATABASE
+      ↓
+SEMANTIC RETRIEVAL
+      ↓
+AI AGENT
+      ↓
+LLM
+      ↓
+ANSWER
+```
+
+### Technologies
 
 `Python` `LangChain` `LangGraph` `ChromaDB` `Hugging Face` `LLMs`
 
-### Architecture
+---
 
-```text
-Document
-   ↓
-Document Loader
-   ↓
-Text Splitting
-   ↓
-Embeddings
-   ↓
-Vector Database
-   ↓
-Retriever
-   ↓
-Agent / LLM
-   ↓
-Context-Aware Answer
-```
+# 🎬 AI Engineering in Motion
 
-### Features
+<div align="center">
 
-* 📄 PDF document ingestion
-* 🔍 Semantic search
-* 🧠 Vector embeddings
-* 🗃️ ChromaDB vector storage
-* 🤖 LLM-powered responses
-* 🔗 Agentic workflow
-* 💬 Conversational interface
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/robot.gif" width="180"/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/ai.gif" width="180"/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/coding.gif" width="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**CODE → TRAIN → BUILD → DEPLOY → IMPROVE**
+
+</div>
 
 ---
 
-# 🧩 Areas I'm Exploring
+# 📚 Currently Exploring
 
-```text
-Generative AI
-     │
-     ├── Large Language Models
-     ├── RAG Systems
-     ├── AI Agents
-     ├── Agentic Workflows
-     ├── Embeddings
-     ├── Vector Databases
-     └── LLM Applications
+<div align="center">
 
-Machine Learning
-     │
-     ├── Classical ML
-     ├── Deep Learning
-     ├── Neural Networks
-     ├── Transformers
-     └── Model Evaluation
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=600&color=7C3AED&center=true&vCenter=true&width=750&lines=Advanced+RAG;Agentic+AI;Multi-Agent+Systems;LLM+Engineering;Transformers;Embeddings;Fine-Tuning;MLOps;AI+Deployment"/>
+
+</div>
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dawood-Ahmad-07&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📚 Currently Learning
+# 🐍 Contribution Animation
 
-* Advanced RAG architectures
-* Agentic RAG
-* Multi-agent AI systems
-* LLM application engineering
-* Advanced LangChain & LangGraph
-* Transformer architectures
-* Model fine-tuning
-* AI system deployment
-* MLOps fundamentals
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-# 🛠️ My Development Approach
-
-I focus on building AI systems that are:
-
-**Practical** → Solve real-world problems
-**Intelligent** → Use appropriate AI/ML techniques
-**Scalable** → Designed with maintainability in mind
-**Deployable** → Built to move beyond notebooks and experiments
-
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dawood-Ahmad-07&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
 <a href="https://github.com/Dawood-Ahmad-07">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -213,35 +197,14 @@ I focus on building AI systems that are:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💼 Open To
+<div align="center">
 
-* AI/ML Engineering Opportunities
-* Generative AI Projects
-* AI Research & Development
-* Internships
-* Freelance AI Projects
-* Open-Source Collaboration
-* AI Product Development
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:020617&height=140&section=footer&animation=twinkling"/>
 
----
+### 🤖 Building Intelligent Systems. One Project at a Time.
 
-## 💭 My Goal
-
-> **Build intelligent systems that solve meaningful real-world problems.**
-
-I’m continuously learning, experimenting, and building with AI — one project at a time.
-
----
-
-<p align="center">
-
-### ⭐ If you find my projects useful, consider giving them a star!
-
-**Thanks for visiting my profile! 🚀**
-
-</p>
-
+</div>
