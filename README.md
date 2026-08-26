@@ -133,29 +133,6 @@ ANSWER
 
 `Python` `LangChain` `LangGraph` `ChromaDB` `Hugging Face` `LLMs`
 
----
-
-# 🎬 AI Engineering in Motion
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/robot.gif" width="180"/>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/ai.gif" width="180"/>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/coding.gif" width="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**CODE → TRAIN → BUILD → DEPLOY → IMPROVE**
-
-</div>
-
----
 
 # 📚 Currently Exploring
 
