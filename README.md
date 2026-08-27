@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Developer;LLM+%7C+RAG+%7C+AI+Agents;Python+%7C+LangChain+%7C+LangGraph;Building+Real-World+AI+Applications" />
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Dawood-Ahmad-07&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=DAWOOD+AHMAD;AI+%26+MACHINE+LEARNING+ENGINEER;GENERATIVE+AI+DEVELOPER;LLM+%7C+RAG+%7C+AI+AGENTS;PYTHON+%7C+LANGCHAIN+%7C+LANGGRAPH" />
 
 </div>
-
----
-
-<div align="center">
-
 <!-- Animated AI / Coding GIF -->
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5dHh3Y3NqN3Q2bWZ0NnN1bWZqN3J4d2R4cXQ3aGJ6eGJ4cG5mNCZlcD12MV9naWQiLCJjdD1n/L8K62iTDkzGX6/giphy.gif" width="500"/>
