@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=DAWOOD+AHMAD;AI+%26+MACHINE+LEARNING+ENGINEER;GENERATIVE+AI+DEVELOPER;LLM+%7C+RAG+%7C+AI+AGENTS;PYTHON+%7C+LANGCHAIN+%7C+LANGGRAPH" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=1100&height=100&lines=DAWOOD+AHMAD;AI+%26+MACHINE+LEARNING+ENGINEER;GENERATIVE+AI+DEVELOPER;LLM+%7C+RAG+%7C+AI+AGENTS;PYTHON+%7C+LANGCHAIN+%7C+LANGGRAPH" />
 
 </div>
 <!-- Animated AI / Coding GIF -->
