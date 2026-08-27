@@ -3,6 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=1100&height=100&lines=DAWOOD+AHMAD;AI+%26+MACHINE+LEARNING+ENGINEER;GENERATIVE+AI+DEVELOPER;LLM+%7C+RAG+%7C+AI+AGENTS;PYTHON+%7C+LANGCHAIN+%7C+LANGGRAPH" />
 
 </div>
+<div align="center">
+
 <!-- Animated AI / Coding GIF -->
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5dHh3Y3NqN3Q2bWZ0NnN1bWZqN3J4d2R4cXQ3aGJ6eGJ4cG5mNCZlcD12MV9naWQiLCJjdD1n/L8K62iTDkzGX6/giphy.gif" width="500"/>
